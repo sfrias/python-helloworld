@@ -44,4 +44,4 @@ jobs:
           file: ./Dockerfile
           platforms: linux/amd64
           push: true
-          tags: sfrias/python-helloworld:latest
+          tags: sfrias/python-hw:latest
